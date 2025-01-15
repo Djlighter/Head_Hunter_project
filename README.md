@@ -4,6 +4,6 @@
 
 [1. Ноутбук проекта](https://github.com/Djlighter/Head_Hunter_project/blob/master/Project-1.ipynb)
 
-[2. Ссылка на базу данных для проекта](https://)
+[2. Ссылка на базу данных для проекта](https://disk.yandex.ru/d/3mYoIIa7xGnQXw)
 
 [3. Графики проекта](https://github.com/Djlighter/Head_Hunter_project/tree/master/plotly)
